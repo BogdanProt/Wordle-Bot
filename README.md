@@ -11,7 +11,8 @@ Once entropies are computed, a filtering process is initiated, narrowing down th
 It's worth noting that the optimal word to initiate each Wordle game, as determined by the algorithm, is **TAREI**, which yiels ~6.41 bits of information. 
 
 
-![image](https://github.com/BogdanProt/Wordle-Bot/assets/92607347/8bfb1ff9-8870-4e68-90e4-a64dd2f5a2bc)
+![image](https://github.com/BogdanProt/Wordle-Bot/assets/92607347/cdb9b8e3-5411-4d64-8e97-1cd62566751b)
+
 
 
 
